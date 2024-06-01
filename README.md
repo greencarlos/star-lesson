@@ -1,2 +1,4 @@
-# webpack-pokemon-classes
-# star-lesson
+nodemon index.js
+
+webpack --watch
+
