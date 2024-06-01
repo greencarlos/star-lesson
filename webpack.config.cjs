@@ -7,7 +7,7 @@ module.exports = {
     pokemon: "./src/pokemon.js",
     addLessons: "./src/addLessons.js",
   },
-  mode: "development",
+  mode: "production",
   module: {
     rules: [
       {
